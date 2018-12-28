@@ -1,0 +1,7 @@
+flask
+flask-script
+flask-blueprint
+Flask-Mail
+Flask-Session
+Flask-SQLAlchemy
+Flask-WTF
